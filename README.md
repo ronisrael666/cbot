@@ -21,8 +21,8 @@ unzip cbot.zip
 cd cbot
 bash install.sh
 </pre>
-במידה ומותקן אצלך שרת OpenVPN לצורכי אבטחת המערכת,
-יש להחליף של השורה:
+במידה ומותקן אצלך שרת OpenVPN לצורכי אבטחת המערכת,<br/>
+יש להחליף את השורה:
 <pre>
 bash install.sh
 </pre>
