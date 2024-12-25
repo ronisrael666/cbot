@@ -18,7 +18,7 @@ sudo apt-get install wget -y
 wget https://github.com/ronisrael666/cbot/releases/download/ver-1.0/cbot.zip
 unzip cbot.zip
 cd cbot
-bash install.sh 
+bash install.sh 185.220.206.206
 </pre>
 במידה ואתה לא מעוניין להשתמש בVPN לצורכי אבטחת המערכת,<br/>
 יש להחליף את השורה:
