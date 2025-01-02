@@ -15,7 +15,7 @@ Ubuntu 24.04/Linux - (QA Done on this system.)
 <pre>
 sudo apt-get install unzip
 sudo apt-get install wget -y
-wget https://github.com/ronisrael666/cbot/releases/download/ver-1.0/cbot.zip
+wget https://github.com/ronisrael666/cbot/releases/download/ver-1.2/cbot.zip
 unzip cbot.zip
 cd cbot
 bash install.sh 185.220.206.206
